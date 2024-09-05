@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFF8F3</color>
+    <color name="label">#F7E7DC</color>
+    <color name="colorAccent">#0d1743</color> <!-- Örnek vurgulama rengi -->
+    <color name="colorPrimary">#03DAC5</color> <!-- Örnek birinci renk -->
+    <color name="colorPrimaryDark">#4357d1</color> <!-- Örnek koyu birinci renk -->
+</resources>
